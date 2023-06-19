@@ -3,7 +3,9 @@
 /**
  * main - print the letters of the alphabet
  *
- * Return always 0 (success)
+ * Description: print the letters of the alphabet in lower then in uppercase
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
