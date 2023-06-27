@@ -7,10 +7,7 @@
  *
  * Return: Always 0.
  */
-int n;
+void reset_to_98(int *n)
 {
-n = 402;
-
-printf("n = %d.", &402)
-int *("n; 
+*n = 98;	
 }
